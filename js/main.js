@@ -141,7 +141,7 @@ window.addEventListener('load', () => {
     if (j < 10) {
       j = "0" + j;
     }
-    loopImg = loop.innerHTML += `<img src = "img/loop/loop_000${j}.png" "loop img"/>`;
+    loopImg = loop.innerHTML += `<img src = "img/loop/loop_000${j}.png" alt="loop img"/>`;
 
   }
 
