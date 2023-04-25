@@ -2925,50 +2925,6 @@ a {
     font-weight: bold;
   }
 
-  .footer_inner a {
-    color: #9f9f9f;
-  }
-
-  .footer_inner>ul>li {
-    display: inline-block;
-    padding: 0 9px;
-  }
-
-  .footer_inner>ul>li:nth-child(2) a {
-    font-size: 15px;
-  }
-
-  .footer_inner>ul>li:nth-child(2) a :hover {
-    text-decoration: underline;
-  }
-
-  .footer_inner>dl {
-    margin: 20px 0 30px;
-  }
-
-  .footer_inner>dl>dd {
-    display: inline-block;
-    margin-left: 5px;
-    width: 109px;
-    height: 27px;
-    background: #272727;
-    border: 1px solid #2c2c2c;
-    border-radius: 2px;
-    line-height: 27px;
-  }
-
-  .footer_inner>dl>dd>a {
-    color: #fff;
-  }
-
-  .footer_inner>dl>dd.family_site {
-    position: relative;
-    width: 189px;
-    background-color: #222;
-    border: 1px solid #6d6d6d;
-    text-align: left;
-  }
-
 }
 
 
