@@ -170,8 +170,6 @@ a {
     box-sizing: border-box;
   }
 
-  .banner_frame>section>div>h3 {}
-
   .banner_frame>section>div>ul>li:nth-child(1) {
     padding: 15px 0 20px;
     font-size: 50px;
@@ -3046,7 +3044,6 @@ a {
     box-sizing: border-box;
   }
 
-  .banner_frame>section>div>h3 {}
 
   .banner_frame>section>div>ul>li:nth-child(1) {
     padding: 15px 0 20px;
