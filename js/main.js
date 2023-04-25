@@ -131,7 +131,7 @@ window.addEventListener('load', () => {
     if (i < 10) {
       i = "0" + i;
     }
-    appearImg = appear.innerHTML += `<img src = "img/appear/appear_000${i}.png" />`;
+    appearImg = appear.innerHTML += `<img src = "img/appear/appear_000${i}.png" alt="NOW"/>`;
 
   }
 
@@ -141,7 +141,7 @@ window.addEventListener('load', () => {
     if (j < 10) {
       j = "0" + j;
     }
-    loopImg = loop.innerHTML += `<img src = "img/loop/loop_000${j}.png" />`;
+    loopImg = loop.innerHTML += `<img src = "img/loop/loop_000${j}.png" "loop img"/>`;
 
   }
 
@@ -173,10 +173,10 @@ window.addEventListener('load', () => {
     if (i < 10) {
       i = "0" + i;
     }
-    quick1.innerHTML += `<img src = "img/quick01/quick01_000${i}.png">`;
-    quick2.innerHTML += `<img src = "img/quick02/quick02_000${i}.png">`;
-    quick3.innerHTML += `<img src = "img/quick03/quick03_000${i}.png">`;
-    quick4.innerHTML += `<img src = "img/quick04/quick04_000${i}.png">`;
+    quick1.innerHTML += `<img src = "img/quick01/quick01_000${i}.png" alt="퀵이미지1">`;
+    quick2.innerHTML += `<img src = "img/quick02/quick02_000${i}.png" alt="퀵이미지2">`;
+    quick3.innerHTML += `<img src = "img/quick03/quick03_000${i}.png" alt="퀵이미지3">`;
+    quick4.innerHTML += `<img src = "img/quick04/quick04_000${i}.png" alt="퀵이미지4">`;
   }
 
   for (let q = 0; q < contentLi.length; q++) {

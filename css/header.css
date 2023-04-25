@@ -58,7 +58,7 @@ dl.topMenu>dd {
 }
 
 dl.topMenu>dd a {
-  color: #777;
+  color: #ADADAD;
 }
 
 dl.topMenu>dd a:hover {
@@ -362,7 +362,7 @@ form.srch fieldset button :hover {
   }
 
   dl.topMenu>dd a {
-    color: #777;
+    color: #ADADAD;
   }
 
   dl.topMenu>dd a:hover {
