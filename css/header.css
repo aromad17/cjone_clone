@@ -35,6 +35,7 @@ div.mob,
 
 .header_wrap.on {
   height: 445px;
+  overflow: hidden;
 }
 
 /* 로고 */
