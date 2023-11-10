@@ -215,7 +215,8 @@ window.addEventListener('load', () => {
 
 
   window.addEventListener("resize", () => {
-    let getBannerWid = bannerFrame.clientWidth;
+    getBannerWid = bannerFrame.clientWidth;
+    banner.style.left = (getBannerWid * idxNum) + "px";
   })
 
 
